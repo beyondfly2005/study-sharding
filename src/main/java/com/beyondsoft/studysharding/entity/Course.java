@@ -18,6 +18,4 @@ public class Course {
     private String cname;
     private Long userId;
     private String cstatus;
-
-
 }
